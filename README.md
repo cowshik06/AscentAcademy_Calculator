@@ -1,16 +1,7 @@
-# flutter_application_1
+This Calculator app is an application developed for android cells phones and tablets. It enables the
+users to perform fundamental mathematical operations such as addition, subtraction,
+multiplication and division on their phone.I have used "Flutter" framework to build this application.I have used "Dart" programming language for this application.
 
-A new Flutter project.
+@AscentAcademy
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1440" alt="Screenshot 2023-03-24 at 11 19 53 PM" src="https://user-images.githubusercontent.com/99784752/227610478-f8ddc659-6e5f-4500-beb9-81e23209a551.png">
